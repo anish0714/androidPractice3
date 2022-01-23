@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AnishDandekarTask3</string>
+    <string name="school_education">School Education</string>
+    <string name="school_edu_description">Never trust someone who has not brought a book with them</string>
+    <string name="maths">Maths</string>
+    <string name="maths_desc">Study maths love nature, stay close to nature</string>
+    <string name="learn_more">Learn more</string>
+    <string name="physics">Physics</string>
+    <string name="physics_desc">Study Nature, love nature, stay close to nature</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="subject_description">study nature, love nature, stay close to nature</string>
+    <string name="biology">Biology</string>
+    <string name="geography">Geography</string>
+    <string name="french">French</string>
+</resources>
